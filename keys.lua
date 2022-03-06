@@ -6,5 +6,6 @@ require "keybow"
  -- TODO
 
 -- Keybow Mini Layouts
---require "layouts/mini_work" -- Helpful work shortcuts (MacOS)
+--require "layouts/mini_mac" -- Helpful MacOS shortcuts
+--require "layouts/mini_jiggler" -- Simple mouse jiggler
 --require "layouts/mini_osrs" -- Oldschool RuneScape layout
