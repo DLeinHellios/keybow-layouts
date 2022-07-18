@@ -3,7 +3,7 @@ require "keybow"
 -- Select layout by uncommenting one of the lines below
 
 -- Keybow Standard Layouts
- -- TODO
+--require "layouts/full_arpg" -- ARPG-focused numpad
 
 -- Keybow Mini Layouts
 --require "layouts/mini_mac" -- Helpful MacOS shortcuts
