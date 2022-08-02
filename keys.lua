@@ -4,6 +4,7 @@ require "keybow"
 
 -- Keybow Standard Layouts
 --require "layouts/full_arpg" -- ARPG-focused numpad
+--require "layouts/full_d2" -- Diablo 2 belt + skills
 
 -- Keybow Mini Layouts
 --require "layouts/mini_mac" -- Helpful MacOS shortcuts
